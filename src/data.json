@@ -1,0 +1,44 @@
+{
+    "faqs": [
+        {
+            "question": "What is Section 1?",
+            "answer": "This is the answer to section 1. It can include any information you want to display within this section."
+        },
+        {
+            "question": "What is Section 2?",
+            "answer": "This is the answer to section 2. It can include any information you want to display within this section."
+        },
+        {
+            "question": "What is Section 3?",
+            "answer": "This is the answer to section 3. It can include any information you want to display within this section."
+        },
+        {
+            "question": "What is Section 4?",
+            "answer": "This is the answer to section 4. It can include any information you want to display within this section."
+        },
+        {
+            "question": "What is Section 5?",
+            "answer": "This is the answer to section 5. It can include any information you want to display within this section."
+        },
+        {
+            "question": "What is Section 6?",
+            "answer": "This is the answer to section 6. It can include any information you want to display within this section."
+        },
+        {
+            "question": "What is Section 7?",
+            "answer": "This is the answer to section 7. It can include any information you want to display within this section."
+        },
+        {
+            "question": "What is Section 8?",
+            "answer": "This is the answer to section 8. It can include any information you want to display within this section."
+        },
+        {
+            "question": "What is Section 9?",
+            "answer": "This is the answer to section 9. It can include any information you want to display within this section."
+        },
+        {
+            "question": "What is Section 10?",
+            "answer": "This is the answer to section 10. It can include any information you want to display within this section."
+        }
+    ]
+}

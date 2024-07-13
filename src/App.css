@@ -1,0 +1,17 @@
+* {
+  font-family: sans-serif;
+}
+
+.accordion {
+  border: 1px solid red;
+  border-radius: 10px;
+  margin: 0.5rem;
+  padding: 0.4em;
+  position: relative;
+}
+ 
+span {
+  position: absolute;
+  right: 1.1rem;
+  cursor: pointer;
+}
